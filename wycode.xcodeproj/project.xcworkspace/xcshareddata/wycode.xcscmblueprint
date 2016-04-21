@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a88ca71a-6d1a-45ff-9801-fe651f7b8e00++770",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a88ca71a-6d1a-45ff-9801-fe651f7b8e00++770" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a88ca71a-6d1a-45ff-9801-fe651f7b8e00++770" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "63B6A93C-6DD0-48E2-90BA-CA7AF6B1C0D8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a88ca71a-6d1a-45ff-9801-fe651f7b8e00++770" : "mysvn\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "wycode",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WyCode\/ios\/wycode.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/wycode.cn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a88ca71a-6d1a-45ff-9801-fe651f7b8e00++770"
+    }
+  ]
+}
